@@ -1,0 +1,20 @@
+.user .badge-ok,
+.user .badge-not-ok {
+  width: 33px;
+  height: 33px;
+  border-radius: 16px;
+  margin-right: 10px;
+  float: left;
+}
+.user .badge-ok {
+  background-color: #29ac13;
+}
+.user .badge-not-ok {
+  background-color: #a4a4a4;
+}
+
+.user {
+  padding: 10px 0;
+  line-height: 33px;
+  text-align: left;
+}

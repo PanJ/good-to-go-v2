@@ -1,0 +1,21 @@
+.lobby {
+  width: 20%;
+  min-height: 300px;
+  background: #ebebeb;
+  padding: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+
+h2 {
+  font-size: 23px;
+  color: #424242;
+  text-align: left;
+}
+
+.room {
+  width: 80%;
+  box-sizing: border-box;
+  float: left;
+  position: relative;
+}

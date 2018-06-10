@@ -1,0 +1,9 @@
+button.big-button {
+  background-color: #d8d8d8;
+  padding: 35px 46px;
+  font-size: 23px;
+  color: #424242;
+  border: 0;
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+}
